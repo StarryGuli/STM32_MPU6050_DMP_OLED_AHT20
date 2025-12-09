@@ -1,0 +1,2 @@
+../Core/Src/ArduinoWrapper.cpp:7:7:float mapArduino(float, float, float, float, float)	1
+../Core/Src/ArduinoWrapper.cpp:11:1:int __io_putchar(int)	1

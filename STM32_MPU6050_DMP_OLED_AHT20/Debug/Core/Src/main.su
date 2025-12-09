@@ -1,0 +1,29 @@
+../Core/Inc/helper_3dmath.h:58:20:Quaternion Quaternion::getProduct(Quaternion)	48	static
+../Core/Inc/helper_3dmath.h:129:14:void VectorInt16::rotate(Quaternion*)	80	static
+../Core/Inc/MPU6050_6Axis_MotionApps_V6_12.h:352:9:uint8_t MPU6050::dmpInitialize()	40	static
+../Core/Inc/MPU6050_6Axis_MotionApps_V6_12.h:385:6:bool MPU6050::dmpPacketAvailable()	8	static
+../Core/Inc/MPU6050_6Axis_MotionApps_V6_12.h:412:9:uint8_t MPU6050::dmpGetAccel(int32_t*, const uint8_t*)	0	static
+../Core/Inc/MPU6050_6Axis_MotionApps_V6_12.h:420:9:uint8_t MPU6050::dmpGetAccel(int16_t*, const uint8_t*)	0	static
+../Core/Inc/MPU6050_6Axis_MotionApps_V6_12.h:428:9:uint8_t MPU6050::dmpGetAccel(VectorInt16*, const uint8_t*)	0	static
+../Core/Inc/MPU6050_6Axis_MotionApps_V6_12.h:436:9:uint8_t MPU6050::dmpGetQuaternion(int32_t*, const uint8_t*)	0	static
+../Core/Inc/MPU6050_6Axis_MotionApps_V6_12.h:445:9:uint8_t MPU6050::dmpGetQuaternion(int16_t*, const uint8_t*)	0	static
+../Core/Inc/MPU6050_6Axis_MotionApps_V6_12.h:454:9:uint8_t MPU6050::dmpGetQuaternion(Quaternion*, const uint8_t*)	24	static
+../Core/Inc/MPU6050_6Axis_MotionApps_V6_12.h:469:9:uint8_t MPU6050::dmpGetGyro(int32_t*, const uint8_t*)	0	static
+../Core/Inc/MPU6050_6Axis_MotionApps_V6_12.h:477:9:uint8_t MPU6050::dmpGetGyro(int16_t*, const uint8_t*)	0	static
+../Core/Inc/MPU6050_6Axis_MotionApps_V6_12.h:485:9:uint8_t MPU6050::dmpGetGyro(VectorInt16*, const uint8_t*)	0	static
+../Core/Inc/MPU6050_6Axis_MotionApps_V6_12.h:495:9:uint8_t MPU6050::dmpGetLinearAccel(VectorInt16*, VectorInt16*, VectorFloat*)	24	static
+../Core/Inc/MPU6050_6Axis_MotionApps_V6_12.h:503:9:uint8_t MPU6050::dmpGetLinearAccelInWorld(VectorInt16*, VectorInt16*, Quaternion*)	8	static
+../Core/Inc/MPU6050_6Axis_MotionApps_V6_12.h:515:9:uint8_t MPU6050::dmpGetGravity(int16_t*, const uint8_t*)	24	static
+../Core/Inc/MPU6050_6Axis_MotionApps_V6_12.h:526:9:uint8_t MPU6050::dmpGetGravity(VectorFloat*, Quaternion*)	32	static
+../Core/Inc/MPU6050_6Axis_MotionApps_V6_12.h:537:9:uint8_t MPU6050::dmpGetEuler(float*, Quaternion*)	32	static
+../Core/Inc/MPU6050_6Axis_MotionApps_V6_12.h:555:9:uint8_t MPU6050::dmpGetYawPitchRoll(float*, Quaternion*, VectorFloat*)	32	static
+../Core/Inc/MPU6050_6Axis_MotionApps_V6_12.h:576:9:uint8_t MPU6050::dmpProcessFIFOPacket(const unsigned char*)	0	static
+../Core/Inc/MPU6050_6Axis_MotionApps_V6_12.h:586:9:uint8_t MPU6050::dmpReadAndProcessFIFOPacket(uint8_t, uint8_t*)	32	dynamic
+../Core/Inc/MPU6050_6Axis_MotionApps_V6_12.h:611:10:uint16_t MPU6050::dmpGetFIFOPacketSize()	0	static
+../Core/Inc/MPU6050_6Axis_MotionApps_V6_12.h:617:9:uint8_t MPU6050::dmpGetCurrentFIFOPacket(uint8_t*)	8	static
+../Core/Src/main.cpp:107:6:void HAL_GPIO_EXTI_Callback(uint16_t)	0	static
+../Core/Src/main.cpp:122:6:void OLED_Animation()	24	static
+../Core/Src/main.cpp:452:6:void SystemClock_Config()	72	static,ignoring_inline_asm
+../Core/Src/main.cpp:194:5:int main()	72	static
+../Core/Src/main.cpp:495:6:void Error_Handler()	0	static,ignoring_inline_asm
+../Core/Src/main.cpp:504:1:cpp)	0	static
