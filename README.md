@@ -1,10 +1,14 @@
 # STM32 Monitor: MPU6050 (DMP) + AHT20 + OLED
 
-> **STM32 implementation using MPU6050 (DMP) for attitude tracking and AHT20 for temperature/humidity monitoring, with real-time OLED display.**
+[![Status](https://img.shields.io/badge/Status-Active-brightgreen)]()
+[![Platform](https://img.shields.io/badge/Platform-STM32-blue)]()
+[![Language](https://img.shields.io/badge/Language-C++-orange)]()
 
-![Status](https://img.shields.io/badge/Status-Active-brightgreen)
-![Platform](https://img.shields.io/badge/Platform-STM32-blue)
-![Language](https://img.shields.io/badge/Language-C++-orange)
+[🇨🇳 中文文档 (Chinese Version)](https://github.com/StarryGuli/STM32_MPU6050_DMP_OLED_AHT20/blob/main/README_CN.md)
+
+> **STM32 implementation using MPU6050 (DMP) for attitude tracking and AHT20 for temperature/humidity monitoring, with real-time OLED display.**
+>
+> 🛠️ *This project is built upon the excellent work of [STM32_HAL_MPU6050_DMP](https://github.com/utomm/STM32_HAL_MPU6050_DMP).*
 
 ## 📂 1. Project File Description
 
